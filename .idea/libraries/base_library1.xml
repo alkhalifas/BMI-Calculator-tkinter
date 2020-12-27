@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="base_library1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/bmi_calculator_final/base_library.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
